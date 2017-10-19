@@ -1,0 +1,2 @@
+class ContactJobsController < ApplicationController
+end
